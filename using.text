@@ -4,3 +4,8 @@ Buổi 1:
         Cài thư viện express: phát triển server
             - npm install express --save
         Database: database.sql
+Buổi 2: 
+        Router
+        Params
+        Templating Engines
+        Middlware
